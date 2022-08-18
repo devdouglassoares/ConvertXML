@@ -1,0 +1,15 @@
+/home/douglas/Documentos/ConvertXML/bin/Debug/net6.0/ConvertXML
+/home/douglas/Documentos/ConvertXML/bin/Debug/net6.0/ConvertXML.deps.json
+/home/douglas/Documentos/ConvertXML/bin/Debug/net6.0/ConvertXML.runtimeconfig.json
+/home/douglas/Documentos/ConvertXML/bin/Debug/net6.0/ConvertXML.dll
+/home/douglas/Documentos/ConvertXML/bin/Debug/net6.0/ConvertXML.pdb
+/home/douglas/Documentos/ConvertXML/obj/Debug/net6.0/ConvertXML.csproj.AssemblyReference.cache
+/home/douglas/Documentos/ConvertXML/obj/Debug/net6.0/ConvertXML.GeneratedMSBuildEditorConfig.editorconfig
+/home/douglas/Documentos/ConvertXML/obj/Debug/net6.0/ConvertXML.AssemblyInfoInputs.cache
+/home/douglas/Documentos/ConvertXML/obj/Debug/net6.0/ConvertXML.AssemblyInfo.cs
+/home/douglas/Documentos/ConvertXML/obj/Debug/net6.0/ConvertXML.csproj.CoreCompileInputs.cache
+/home/douglas/Documentos/ConvertXML/obj/Debug/net6.0/ConvertXML.dll
+/home/douglas/Documentos/ConvertXML/obj/Debug/net6.0/refint/ConvertXML.dll
+/home/douglas/Documentos/ConvertXML/obj/Debug/net6.0/ConvertXML.pdb
+/home/douglas/Documentos/ConvertXML/obj/Debug/net6.0/ConvertXML.genruntimeconfig.cache
+/home/douglas/Documentos/ConvertXML/obj/Debug/net6.0/ref/ConvertXML.dll
